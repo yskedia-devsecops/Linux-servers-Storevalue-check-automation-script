@@ -1,0 +1,12 @@
+# Linux-servers-health-check-automation-script
+
+Automated Health Checks: Enhancing QRadar System Reliability through Automation.
+
+Problem Statement :
+The Security Operations Center (SOC) faced a considerable challenge in maintaining the daily health of QRadar systems across 30-40 client Linux servers. The manual process, essential for optimal system performance, was laborious and time-intensive, consuming 2-3 hours daily. This not only strained resources but also introduced a risk of human error, calling for a more efficient solution.
+
+Solution provided by Engineering Team : 
+To address this operational inefficiency, the Engineering Team developed an automated solution using a Python script. This script was tailored to conduct thorough health checks, examining disk space and service statuses on all client QRadar Linux servers. The automation aimed to replace the manual effort, enhancing accuracy and efficiency in the daily health assessment routine.
+
+Result : 
+The implementation of the Python script transformed the health check process, reducing the assessment time to under a minute per server. This efficiency gain cut down the total daily commitment to less than half an hour, freeing up valuable technical resources and minimizing the margin for error. The automation has not only bolstered operational productivity but also reinforced the reliability of the SOC's monitoring capabilities, ensuring the steadfast performance of QRadar systems.
